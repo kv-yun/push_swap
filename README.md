@@ -36,7 +36,7 @@ Algorithme possible: `Radix sort`
 
 Avantage par rapport au QuiSort: Nombre d'instruction stable et meilleurs performance
 
-Le Quicksort a été le premier algorithme qui correspondait à mes criteres de performances, c'est donc pour cette raison que je l'ai choisi.
+Le Quicksort a été le premier algorithme qui correspondait à mes criteres de performances.
 J'ai découvert le Radix sort à travers d'autres étudiants pendant des corrections et j'ai beaucoup aimé son fonctionnement.
 ```
 
@@ -49,7 +49,7 @@ Autre méthode possible: Liste chainée
 Avantage par rapport aux char * : Meilleurs gestion de l'allocation mémoire, plus simple à manipuler et moins d'appel systeme
 
 Les listes chainées sont vraiments plus adaptés au projet.
-Si j'ai choisi les char * c'est surtout pour m'exercer sur les pointers afin d'effectuer divers test.
+Si j'ai choisi les char * c'est surtout pour m'exercer sur les pointers afin d'effectuer divers tests.
 Enfin l'utilisation d'int * auraient été plus judicieux afin d'éviter de convertir fréquemment les char * en int.
 ```
 
