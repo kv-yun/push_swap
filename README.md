@@ -6,7 +6,7 @@ Objectif: Fournir le moins d'instructions possible pour trier une liste de nombr
 
 Afin de réaliser cette tâche nous disposons de 2 piles (A et B) qui vont nous servir à trier.
 
-Liste des instructions disponible:
+Liste des instructions disponibles:
 
 ```
 pa: insérer un élement de la pile B dans la pile A (l'élément n'est donc plus présent dans la pile A)
@@ -19,7 +19,7 @@ sa, sb: switch les 2 premiers éléments de la pile indiqué
 ss: switch les 2 premiers éléments des 2 piles
 ```
 
- List d'erreurs pris en compte:
+ Liste d'erreurs pris en compte:
 ```
 - 2 arguments identique
 - utilisation de nombres plus grand que int max ou int min
